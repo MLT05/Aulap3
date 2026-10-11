@@ -35,4 +35,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-[![CI](https://github.com/MLT05/Aulap3/actions/workflows/ci.yml/badge.svg)](https://github.com/MLT05/Aulap3/actions/workflows/ci.yml)
+[![CI](https://github.com/MLT05/Aulap3/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/MLT05/Aulap3/actions/workflows/ci.yml)
